@@ -20,7 +20,9 @@
 	* JavaScript data type classification;
 	* Simple communication with the user;
 	* Operators in JS;
-	* Working with the Git and GitHub service
+	* Working with the Git and GitHub service;
+	* Conditions;
+	* Cycles;
 3. Javascript at work, 11 lectures;
 4. Advanced JavaScript, 11 lectures;
 5. Additional technology, 2 lectures.
